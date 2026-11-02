@@ -1,2 +1,2 @@
-#My Koi
+# My Koi
 <img src="koi/koi.gif" width="256" alt="My koi" />
