@@ -1,2 +1,4 @@
-# My Koi
-<img src="koi/koi.gif" width="256" alt="My koi" />
+# My Profile
+<img src="koi/koi.gif" align="left" width="50%" alt="My koi" />
+
+
