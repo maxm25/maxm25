@@ -1,2 +1,2 @@
-# profile
-<img src="koi/koi.gif" width="512" alt="My koi" />
+#My Koi
+<img src="koi/koi.gif" width="256" alt="My koi" />
