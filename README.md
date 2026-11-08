@@ -1,6 +1,6 @@
 # My Profile
 
-<div align="left" width="50%" >
+<div align="left" width="35%" >
   <img src="koi/koi.gif" alt="My koi" />
 </div>
 
